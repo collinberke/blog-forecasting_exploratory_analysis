@@ -20,7 +20,7 @@ select
     event_name,
     key,
     value.string_value
-from `your-google-project-id.ga4_obfuscated_sample_ecommerce.events_*`
+from `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
 CROSS JOIN UNNEST(event_params)
 where 
    event_name = 'page_view' and 
