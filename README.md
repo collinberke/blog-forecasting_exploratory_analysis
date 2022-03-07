@@ -1,6 +1,6 @@
 # Exploratory analysis of Google Analytics 4 data for forecasting
 
-This repository contains code from a [blog post](https://www.collinberke.com/post/shiny-series-metric-summary-tiles/) overviewing the steps involved when performing an exploratory analysis of time series data. 
+This repository contains code from a [blog post](https://www.collinberke.com/post/forecasting-series-exploratory-analysis-of-google-analytics-4-data-for-forecasting-models/) overviewing the steps involved when performing an exploratory analysis of time series data. 
 
 It also contains some example code utilizing the `R` [`bigrquery`](https://bigrquery.r-dbi.org/) package to export Google Analytics 4 data for the [Google Merchandise Store](https://shop.googlemerchandisestore.com/) from [BigQuery](https://cloud.google.com/bigquery). 
 
@@ -10,4 +10,4 @@ It also contains some example code utilizing the `R` [`bigrquery`](https://bigrq
 
 # Bugs, issues, or improvements
 
-Please file an [issue](https://github.com/collinberke/blog-shiny_summary_tiles/issues) if you find any bugs. Suggestions for improvements/optimizations through [pull requests](https://github.com/collinberke/blog-shiny_summary_tiles/issues) are always welcome and apprecitated. 
+Please file an [issue](https://github.com/collinberke/blog-forecasting_exploratory_analysis/issues) if you find any errors or issues with the post.
