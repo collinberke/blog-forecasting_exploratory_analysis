@@ -1,6 +1,6 @@
 # Exploratory analysis of Google Analytics 4 data for forecasting
 
-This repository contains data extraction code from a [blog post](https://www.collinberke.com/post/shiny-series-metric-summary-tiles/) overviewing the steps involved when performing an exploratory analysis of time series data. 
+This repository contains code from a [blog post](https://www.collinberke.com/post/shiny-series-metric-summary-tiles/) overviewing the steps involved when performing an exploratory analysis of time series data. 
 
 It also contains some example code utilizing the `R` [`bigrquery`](https://bigrquery.r-dbi.org/) package to export Google Analytics 4 data for the [Google Merchandise Store](https://shop.googlemerchandisestore.com/) from [BigQuery](https://cloud.google.com/bigquery). 
 
